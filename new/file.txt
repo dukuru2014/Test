@@ -1,0 +1,1 @@
+this is a file that is going to be used to test wether or not i can add a directory to my test repository. it is all out of curiosity for the most part. and trying to learn Git to the best of my abillities. thank you for reading this far. you shouldn't have... serious, wasted your time.
